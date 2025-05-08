@@ -184,4 +184,4 @@ awards:
 ## About Me
 
 茨城大学農学部地域総合農学科の前田研究室では，農業の持続的発展と水域環境の保全の両立に向けて，進取の気性を大切に研究しています．現地観測に留まらず，数値シミュレーションや深層学習等のモデルを用いた予測・推定を重視しています．
-#Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+# Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
