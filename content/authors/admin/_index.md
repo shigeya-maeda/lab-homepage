@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Professor
+role: 教授 Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: College of Agriculture, Ibaraki University
+  - name: 茨城大学農学部 College of Agriculture, Ibaraki University
     url: https://www.agr.ibaraki.ac.jp/
 
 # Social network links
