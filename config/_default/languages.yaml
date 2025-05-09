@@ -1,10 +1,28 @@
 # Languages
+#   Documentation: https://docs.hugoblox.com/reference/language/
+
+# デフォルトを日本語にする
+defaultContentLanguage: ja
+
+ja:
+  languageCode: ja
+  languageName: 日本語
+  contentDir: content
+  weight: 1
+
+en:
+  languageCode: en-us
+  languageName: English
+  contentDir: content/en
+  weight: 2
+
+# Languages
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-en:
-  languageCode: en-us
+#en:
+#  languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 #  contentDir: content/en
 
