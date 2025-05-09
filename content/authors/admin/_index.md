@@ -181,7 +181,7 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## 研究室紹介
+## 研究室
 
 茨城大学農学部地域総合農学科の前田研究室では，農業の持続的発展と水域生態系保全の両立を大テーマとしています．現地観測に留まらず，数値シミュレーションや深層学習等のモデルを用いた予測や数値実験を重視しています．
 
